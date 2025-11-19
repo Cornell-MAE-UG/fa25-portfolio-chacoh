@@ -7,7 +7,7 @@ permalink: /contact/
 
 **Email:** [cmc533@cornell.edu](mailto:cmc533@cornell.edu) | | | **Phone:** (312) 498-2334
 
-<br><br>
+<br>
 
 ## Resume
 

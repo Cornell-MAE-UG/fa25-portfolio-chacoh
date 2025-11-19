@@ -2,7 +2,7 @@
 layout: project
 title: Fluids and Heat Transfer Lab Blade Design
 description: Wind turbine blade designed for fluids and heat transfer lab
-technologies: [SolidWorks, Machining]
+technologies: [Fusion360, MATLAB]
 image: /assets/images/baja.jpg
 ---
 
