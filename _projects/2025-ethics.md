@@ -2,7 +2,7 @@
 layout: project
 title: Engineers and Society Final Portfolio
 description: The ethics of the Boeing 737-MAX
-technologies: [SolidWorks, Machining]
+technologies: [Ethical Analysis, Collaboration]
 image: /assets/images/baja.jpg
 ---
 
