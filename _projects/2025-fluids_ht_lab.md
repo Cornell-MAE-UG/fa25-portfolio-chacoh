@@ -6,30 +6,33 @@ technologies: [Fusion360, MATLAB]
 image: /assets/images/WindTurbineBlades.png
 ---
 
+As part of MAE 4272, you will create a simple professional engineering portfolio and publish a short webpage describing your Blade Design Project. This page is something you can share externally for example with recruiters. Create a page in your portfolio that summarizes your team’s blade design work. This should be written at a level appropriate for a hiring manager or technical recruiter.
+
+Your page must include:
 Project overview: What you were asked to design and why
-
 Design process: Key decisions, iterations, or modeling steps your team performed
-
 Testing summary: How the blades were tested and what data you analyzed
-
 Your contribution: Briefly describe what you worked on
-
 Figures: Plots, CAD image, and photos 
 
+This is not a full technical report. Aim for 2–4 concise paragraphs plus 1–3 informative graphics.
+
+
+
 
 <center>
-<img src="/fa25-portfolio-chacoh/assets/images/BladeCad.png" alt="bladeCad"/>
+<img src="/fa25-portfolio-chacoh/assets/images/BladeCad.png" alt="bladeCad" width="500"/>
 </center>
 
 <center>
-<img src="/fa25-portfolio-chacoh/assets/images/PowerCurves.png" alt="powerCurves"/>
+<img src="/fa25-portfolio-chacoh/assets/images/PowerCurves.png" alt="powerCurves" width="500"/>
 </center>
 
 <center>
-<img src="/fa25-portfolio-chacoh/assets/images/PowerCurvesTwo.png" alt="powerCurveTwo"/>
+<img src="/fa25-portfolio-chacoh/assets/images/PowerCurvesTwo.png" alt="powerCurveTwo" width="500"/>
 </center>
 
 
 <center>
-<img src="/fa25-portfolio-chacoh/assets/images/WindTurbineBlades.png" alt="powerCurveTwo"/>
+<img src="/fa25-portfolio-chacoh/assets/images/WindTurbineBlades.png" alt="powerCurveTwo" width="500"/>
 </center>
