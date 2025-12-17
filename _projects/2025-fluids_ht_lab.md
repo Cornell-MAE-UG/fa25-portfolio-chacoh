@@ -3,11 +3,33 @@ layout: project
 title: Fluids and Heat Transfer Lab Blade Design
 description: Wind turbine blade designed for fluids and heat transfer lab
 technologies: [Fusion360, MATLAB]
-image: /assets/images/baja.jpg
+image: /assets/images/WindTurbineBlades.png
 ---
 
+Project overview: What you were asked to design and why
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Design process: Key decisions, iterations, or modeling steps your team performed
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Testing summary: How the blades were tested and what data you analyzed
 
+Your contribution: Briefly describe what you worked on
+
+Figures: Plots, CAD image, and photos 
+
+
+<center>
+<img src="/fa25-portfolio-chacoh/assets/images/BladeCad.png" alt="bladeCad"/>
+</center>
+
+<center>
+<img src="/fa25-portfolio-chacoh/assets/images/PowerCurves.png" alt="powerCurves"/>
+</center>
+
+<center>
+<img src="/fa25-portfolio-chacoh/assets/images/PowerCurvesTwo.png" alt="powerCurveTwo"/>
+</center>
+
+
+<center>
+<img src="/fa25-portfolio-chacoh/assets/images/WindTurbineBlades.png" alt="powerCurveTwo"/>
+</center>
