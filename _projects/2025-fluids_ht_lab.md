@@ -6,17 +6,13 @@ technologies: [Fusion360, MATLAB]
 image: /assets/images/WindTurbineBlades.png
 ---
 
-As part of MAE 4272, you will create a simple professional engineering portfolio and publish a short webpage describing your Blade Design Project. This page is something you can share externally for example with recruiters. Create a page in your portfolio that summarizes your team’s blade design work. This should be written at a level appropriate for a hiring manager or technical recruiter.
+For this project, we were tasked with designing and experimentally validating a small-scale horizontal-axis wind turbine blade in an open wind tunnel. Our primary objective was to maximize the weighted average power output across the given Weibull probability distribution of wind speed, with optimal performance targeted near our design rotation rate of 1600 RPM to maintain a factor of safety below the maximum 2000 RPM design constraint. We also needed to ensure our design complied with the torque brake’s rotation rate and torque limits, ensure the blades would not structurally fail, and the blades needed to be compatible with the Big Blue wind tunnel test infrastructure. 
 
-Your page must include:
-Project overview: What you were asked to design and why
-Design process: Key decisions, iterations, or modeling steps your team performed
-Testing summary: How the blades were tested and what data you analyzed
-Your contribution: Briefly describe what you worked on
-Figures: Plots, CAD image, and photos 
+To design our blade geometry, we used a combined aerodynamic and structural design optimization framework, developed using Blade Element Theory, stress analysis, and the probabilistic power. Our design process used a parametric optimization of blade pitch, chord, twist, and taper, where each design was evaluated across the given range of wind speeds. We quantified each design’s performance using the expected (probability-weighted) power output from the Weibull distribution, and ensured structural feasibility for each design using bending stress calculations. The final design satisfied all of our constraints in simulation, including maximum rotation rate, torque brake capacity, and material strength limits for the Accura 25 printed blades.
 
-This is not a full technical report. Aim for 2–4 concise paragraphs plus 1–3 informative graphics.
+We conducted experimental testing to generate power curves at constant wind speeds, using a torque brake to measure the wind turbine blades performance. We collected data by increasing the torque brake voltage until stall at each wind speed. Then we post-processed the data to construct power curves at constant wind turbine blade rotation rates. This approach enabled us to evaluate whether our design rotation rate was optimal under the wind speed distribution while also allowing us to collect data most efficiently with the Big Blue wind tunnel setup.
 
+Though our blade met all safety, structural, and experimental constraints, its performance fell significantly short of our theoretical predictions. Our model predicted a weighted average power output of 1.73 W and a weighted average torque of 1.70 N·cm, whereas our experimental results yielded only 0.0305 W and 0.0568 N·cm, respectively. Our experimental results are more than an order of magnitude lower than what we predicted, which we believe was caused by a 90° root pitch orientation mistake when we created a CAD model from our design model’s geometry output. This severely degraded the blade’s aerodynamic efficiency. But despite the blade’s performance shortfalls, the blades operated safely and  allowed us to collect usable data. Overall, the project achieved its educational and experimental objectives, providing clear insights into both wind turbine blade design and the practical challenges of translating theory into hardware.
 
 <!-- <center>
 <img src="/fa25-portfolio-chacoh/assets/images/WindTurbineBlades.png" alt="powerCurveTwo" width="300"/>
